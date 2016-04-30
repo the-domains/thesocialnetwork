@@ -1,0 +1,28 @@
+name: TheSocialNetwork
+favicon: null
+layout_spectrum: 0.48453183216042817
+typography_spectrum: 0.2733541189227253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5607368601486087
+  lightness: 0.03674916224554181
+  saturation: 0.6335243913345039
+  rhythmicContrast: 0.2748233084566891
+purpose: []
