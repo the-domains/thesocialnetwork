@@ -4,11 +4,18 @@
         <description><![CDATA[TheSocialNetwork]]></description>
         <link>https://thegrid.ai/thesocialnetwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 14:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 14:15:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thesocialnetwork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>For those of you in Europe, a special gift is now available over the Nintendo Network. This gift gives you the Legendary Pokémon, Zygarde. This Zygarde matches the event distributed in Japan last year and in Korea earlier this year and doesn't have any special moves. It's not currently known how long this event will run, or if it will be in North America. We'll provide more distribution details as they come so keep checking back Edit: It's now live in North America</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51024eb8-752e-4daf-8390-599992225546.jpg">]]></description>
+            <link>https://thegrid.ai/thesocialnetwork/hello-this-is-the-social-network/index.html</link>
+            <guid isPermaLink="false">bda10917-5c6b-4e57-9f22-c813b14fc4d7</guid>
+            <pubDate>Sat, 30 Apr 2016 14:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pokémon - Zygarde Distribution]]></title>
+            <description><![CDATA[<article><h1>Pokémon - Zygarde Distribution</h1><p>For those of you in Europe, a special gift is now available over the Nintendo Network. This gift gives you the Legendary Pokémon, Zygarde. This Zygarde matches the event distributed in Japan last year and in Korea earlier this year and doesn't have any special moves. It's not currently known how long this event will run, or if it will be in North America. We'll provide more distribution details as they come so keep checking backEdit: It's now live in North America</p></article>]]></description>
             <link>https://thegrid.ai/thesocialnetwork/for-those-of-you-in-europe-a-special-gift-is-now-available/index.html</link>
             <guid isPermaLink="false">c6ea480e-7704-44e3-b4ee-e127c4be4326</guid>
             <pubDate>Sat, 30 Apr 2016 14:11:16 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/thesocialnetwork/test/index.html</link>
             <guid isPermaLink="false">34908532-ea50-459e-9d23-ef48152e6e52</guid>
             <pubDate>Sat, 30 Apr 2016 14:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51024eb8-752e-4daf-8390-599992225546.jpg">]]></description>
-            <link>https://thegrid.ai/thesocialnetwork/hello-this-is-the-social-network/index.html</link>
-            <guid isPermaLink="false">bda10917-5c6b-4e57-9f22-c813b14fc4d7</guid>
-            <pubDate>Sat, 30 Apr 2016 14:02:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
